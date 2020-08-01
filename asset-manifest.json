@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ayshagrwl/messenger-app/static/css/main.67a33622.chunk.css",
+    "main.js": "/ayshagrwl/messenger-app/static/js/main.9c29aa6d.chunk.js",
+    "main.js.map": "/ayshagrwl/messenger-app/static/js/main.9c29aa6d.chunk.js.map",
+    "runtime-main.js": "/ayshagrwl/messenger-app/static/js/runtime-main.650288ab.js",
+    "runtime-main.js.map": "/ayshagrwl/messenger-app/static/js/runtime-main.650288ab.js.map",
+    "static/js/2.97f675a6.chunk.js": "/ayshagrwl/messenger-app/static/js/2.97f675a6.chunk.js",
+    "static/js/2.97f675a6.chunk.js.map": "/ayshagrwl/messenger-app/static/js/2.97f675a6.chunk.js.map",
+    "index.html": "/ayshagrwl/messenger-app/index.html",
+    "precache-manifest.c4403fd10de4c3ddb88fa0292bc2909b.js": "/ayshagrwl/messenger-app/precache-manifest.c4403fd10de4c3ddb88fa0292bc2909b.js",
+    "service-worker.js": "/ayshagrwl/messenger-app/service-worker.js",
+    "static/css/main.67a33622.chunk.css.map": "/ayshagrwl/messenger-app/static/css/main.67a33622.chunk.css.map",
+    "static/js/2.97f675a6.chunk.js.LICENSE.txt": "/ayshagrwl/messenger-app/static/js/2.97f675a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.650288ab.js",
+    "static/js/2.97f675a6.chunk.js",
+    "static/css/main.67a33622.chunk.css",
+    "static/js/main.9c29aa6d.chunk.js"
+  ]
+}
